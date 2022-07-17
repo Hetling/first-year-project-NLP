@@ -1,7 +1,3 @@
-# first-year-project-NLP
-Natural language project
-
-
 # Project 3: Natural Language Proccessing
 
 ### Group C2: Erling Amundsen, Christian Hetling, Alexander Nielsen, Malthe Musaeus, Krzysztof Parocki
